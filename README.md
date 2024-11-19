@@ -16,7 +16,7 @@ This is a Python-based password manager designed to securely store and retrieve 
 Here's how to install the project step by step :
 1. install project from github 
 
-    git clone https://github.com/ehswnmohseni/personal-password-manager.git
+    git clone https://github.com/ehswnmohseni/personal-password-manager-linux.git
     
 2. to open project file :
 	
