@@ -44,3 +44,26 @@ Here's how to install the project step by step :
    7. for first login your password is **admin** after login you can change your password.
 
 **now you can use personal password manager in linux!**
+
+## add password to your password manager 
+
+after login you can enter "add" syntax to add new password to your passwords list 
+first : enter name of password for example instagram 
+then : enter password you like 
+
+## change login password 
+
+after login you can enter "change" syntax to change your login password
+first : Enter your current password
+then : Enter your new password
+
+## see list of password
+
+after login you can enter "list" syntax to see your all passwords 
+when you input the password name, the program will return the password to you
+
+> Please note that the password will be available to you for ten seconds
+
+## exit from program 
+
+you can enter "exit" syntax to exit from password manager
